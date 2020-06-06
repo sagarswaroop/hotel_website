@@ -223,8 +223,8 @@ p {
 
 #testimonials {
     background: url('../image_resources/test-bg.jpg') center center/cover;
-    padding: 100px;
-    height: 600px;
+    padding-top: 100px;
+    height: 100%;
 }
 
 #testimonials h2 {
